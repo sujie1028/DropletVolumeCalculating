@@ -4,6 +4,8 @@ import torch
 import torchvision
 import matplotlib.pyplot as plt
 import os
+os.makedirs('dataset/raw_imgs',exist_ok=1)
+os.makedirs('dataset/masked_imgs',exist_ok=1)
 
 def to_volume(mask,real_dia=1):
     vol = 0
