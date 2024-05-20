@@ -1,4 +1,4 @@
-# DropletVolumeCalculating
+# Droplet Volume Calculating
 
 This project is for the paper entitled "3D-printed carboxymethyl cellulose aerogels".
 
